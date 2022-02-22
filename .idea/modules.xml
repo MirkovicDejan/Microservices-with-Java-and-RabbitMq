@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Microservices-with-Java-and-RabbitMq.iml" filepath="$PROJECT_DIR$/.idea/Microservices-with-Java-and-RabbitMq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mirkovicservices/mirkovicservices.iml" filepath="$PROJECT_DIR$/mirkovicservices/mirkovicservices.iml" />
+    </modules>
+  </component>
+</project>
