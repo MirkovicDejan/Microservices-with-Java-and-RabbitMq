@@ -1,7 +1,7 @@
 package com.mirkoviccode.app.customer.controller;
 
 import com.mirkoviccode.app.customer.models.Customer;
-import com.mirkoviccode.app.customer.myexception.exception.MyException;
+import com.mirkoviccode.app.customer.myexception.MyException;
 import com.mirkoviccode.app.customer.service.CustomerService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -16,7 +16,7 @@ public class CustomerController {
     private final CustomerService customerService;
 
     @PostMapping("/register-customer")
-    public Customer registerCustomer(@RequestBody Customer customer) throws MyException {
-        return customerService.registerCustomer(customer);
+    public void registerCustomer(@RequestBody Customer customer) throws MyException {
+         customerService.registerCustomer(customer);
     }
 }

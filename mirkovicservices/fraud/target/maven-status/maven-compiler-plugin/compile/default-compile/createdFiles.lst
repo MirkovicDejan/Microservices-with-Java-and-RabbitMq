@@ -1,0 +1,8 @@
+com\mirkoviccode\app\fraud\util\FraudCheckResponse.class
+com\mirkoviccode\app\fraud\service\FraudCheckHistoryService.class
+com\mirkoviccode\app\fraud\models\FraudCheckHistory.class
+com\mirkoviccode\app\fraud\controller\FraudCheckHistoryController.class
+com\mirkoviccode\app\fraud\models\FraudCheckHistory$FraudCheckHistoryBuilder.class
+com\mirkoviccode\app\fraud\exception\MyException.class
+com\mirkoviccode\app\fraud\FraudApplication.class
+com\mirkoviccode\app\fraud\repository\FraudCheckHistoryRepository.class

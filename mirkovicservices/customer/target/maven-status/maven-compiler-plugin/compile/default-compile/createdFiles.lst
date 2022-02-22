@@ -1,5 +1,8 @@
+com\mirkoviccode\app\customer\myexception\MyException.class
+com\mirkoviccode\app\customer\repository\CustomerRepository.class
 com\mirkoviccode\app\customer\controller\CustomerController.class
 com\mirkoviccode\app\customer\models\Customer.class
 com\mirkoviccode\app\customer\service\CustomerService.class
-com\mirkoviccode\app\customer\CustomerRepository.class
+com\mirkoviccode\app\customer\config\CustomerConfig.class
 com\mirkoviccode\app\customer\CustomerApplication.class
+com\mirkoviccode\app\customer\util\FraudCheckResponse.class
