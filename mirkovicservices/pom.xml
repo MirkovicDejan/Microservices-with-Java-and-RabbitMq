@@ -6,7 +6,11 @@
 
   <groupId>com.mirkoviccode.app</groupId>
   <artifactId>mirkovicservices</artifactId>
+  <packaging>pom</packaging>
   <version>1.0-SNAPSHOT</version>
+  <modules>
+    <module>customer</module>
+  </modules>
 
   <name>mirkovicservices</name>
   <url>http://www.mirkoviccode.com</url>

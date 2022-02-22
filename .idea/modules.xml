@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Microservices-with-Java-and-RabbitMq.iml" filepath="$PROJECT_DIR$/.idea/Microservices-with-Java-and-RabbitMq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mirkovicservices/customer/customer.iml" filepath="$PROJECT_DIR$/mirkovicservices/customer/customer.iml" />
       <module fileurl="file://$PROJECT_DIR$/mirkovicservices/mirkovicservices.iml" filepath="$PROJECT_DIR$/mirkovicservices/mirkovicservices.iml" />
     </modules>
   </component>
