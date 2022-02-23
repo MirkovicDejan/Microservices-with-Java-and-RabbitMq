@@ -1,8 +1,11 @@
+D:\SourceTreeGitHubProjects\Microservices-with-Java-and-RabbitMq\mirkovicservices\customer\src\main\java\com\mirkoviccode\app\customer\controller\Producer.java
 D:\SourceTreeGitHubProjects\Microservices-with-Java-and-RabbitMq\mirkovicservices\customer\src\main\java\com\mirkoviccode\app\customer\myexception\MyException.java
 D:\SourceTreeGitHubProjects\Microservices-with-Java-and-RabbitMq\mirkovicservices\customer\src\main\java\com\mirkoviccode\app\customer\repository\CustomerRepository.java
+D:\SourceTreeGitHubProjects\Microservices-with-Java-and-RabbitMq\mirkovicservices\customer\src\main\java\com\mirkoviccode\app\customer\models\Message.java
 D:\SourceTreeGitHubProjects\Microservices-with-Java-and-RabbitMq\mirkovicservices\customer\src\main\java\com\mirkoviccode\app\customer\config\CustomerConfig.java
 D:\SourceTreeGitHubProjects\Microservices-with-Java-and-RabbitMq\mirkovicservices\customer\src\main\java\com\mirkoviccode\app\customer\service\CustomerService.java
 D:\SourceTreeGitHubProjects\Microservices-with-Java-and-RabbitMq\mirkovicservices\customer\src\main\java\com\mirkoviccode\app\customer\controller\CustomerController.java
 D:\SourceTreeGitHubProjects\Microservices-with-Java-and-RabbitMq\mirkovicservices\customer\src\main\java\com\mirkoviccode\app\customer\models\Customer.java
+D:\SourceTreeGitHubProjects\Microservices-with-Java-and-RabbitMq\mirkovicservices\customer\src\main\java\com\mirkoviccode\app\customer\rabbitmqconfiguration\RabbitMQConfiguration.java
 D:\SourceTreeGitHubProjects\Microservices-with-Java-and-RabbitMq\mirkovicservices\customer\src\main\java\com\mirkoviccode\app\customer\util\FraudCheckResponse.java
 D:\SourceTreeGitHubProjects\Microservices-with-Java-and-RabbitMq\mirkovicservices\customer\src\main\java\com\mirkoviccode\app\customer\CustomerApplication.java
