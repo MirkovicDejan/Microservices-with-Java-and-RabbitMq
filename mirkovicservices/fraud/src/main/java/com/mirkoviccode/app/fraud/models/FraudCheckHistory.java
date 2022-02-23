@@ -22,7 +22,7 @@ public class FraudCheckHistory {
     @Column(name = "idCustomer",nullable = false)
     private Integer idCustomer;
     @Column(name = "isFraudster",nullable = false)
-    private Boolean isFraudster;
+    private boolean isFraudster;
     @Column(name = "createdAt",nullable = false)
     private LocalDateTime createdAt;
 }

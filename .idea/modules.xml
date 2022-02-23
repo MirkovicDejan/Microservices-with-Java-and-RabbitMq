@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/mirkovicservices/customer/customer.iml" filepath="$PROJECT_DIR$/mirkovicservices/customer/customer.iml" />
       <module fileurl="file://$PROJECT_DIR$/mirkovicservices/fraud/fraud.iml" filepath="$PROJECT_DIR$/mirkovicservices/fraud/fraud.iml" />
       <module fileurl="file://$PROJECT_DIR$/mirkovicservices/mirkovicservices.iml" filepath="$PROJECT_DIR$/mirkovicservices/mirkovicservices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mirkovicservices/notification/notification.iml" filepath="$PROJECT_DIR$/mirkovicservices/notification/notification.iml" />
     </modules>
   </component>
 </project>
