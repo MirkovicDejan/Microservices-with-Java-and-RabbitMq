@@ -18,9 +18,14 @@ public class Producer {
     @Autowired
     private DirectExchange exchange;
 
-    @PostMapping("/post")
-    public String send(@RequestBody Message message){
+    @PostMapping("/post-A")
+    public String sendA(@RequestBody Message message){
         rabbitTemplate.convertAndSend(exchange.getName(),"routing.A",message);
+        return "Message sent successfully !";
+    }
+    @PostMapping("/post-B")
+    public String sendB(@RequestBody Message message){
+        rabbitTemplate.convertAndSend(exchange.getName(),"routing.B",message);
         return "Message sent successfully !";
     }
 
